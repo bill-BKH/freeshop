@@ -51,8 +51,7 @@ Upgrade and Develope the project
 the picture will show you a demo of the project and what are the capabilities and what features are included.
 
 <p align="center">
-![freeshop market](freeshop_digi_image.png.png)
-<img src="./img/freeshop_digi_image.png.png" width="100%"></a>
+<img src="./static/img/freeshop_digi_image.png" width="100%"></a>
 </p>
 
 
